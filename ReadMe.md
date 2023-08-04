@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LightCyan01&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LightCyan01&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+[![Discord Presence](https://lanyard.cnrad.dev/api/183647558457884672)](https://discord.com/users/183647558457884672)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LightCyan01&icon=9&color=0)](https://visitcount.itsvg.in)
